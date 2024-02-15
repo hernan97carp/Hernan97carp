@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/hernan97carp"> <img src="https://github-profile-trophy.vercel.app/?username=hernan97carp" alt="hernan97carp" /> </a> </p>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hernan97carp](https://github.com/hernan97carp)
 
